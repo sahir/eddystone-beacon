@@ -1,9 +1,5 @@
 package com.beacon.demo;
 
-/**
- * Created by Dheeraj on 4/20/2017.
- */
-
 public class BeaconModel {
     String beaconName;
     String distance;
