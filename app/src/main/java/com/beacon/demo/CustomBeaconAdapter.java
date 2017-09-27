@@ -9,9 +9,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by Dheeraj on 4/20/2017.
- */
 
 public class CustomBeaconAdapter extends BaseAdapter {
     ArrayList<BeaconModel> list;
