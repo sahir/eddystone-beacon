@@ -15,10 +15,6 @@ import org.altbeacon.beacon.startup.RegionBootstrap;
 
 import java.util.Collection;
 
-/**
- * Created by Dheeraj on 4/20/2017.
- */
-
 public class BeaconApplication extends Application implements BootstrapNotifier, BeaconConsumer {
 
     BeaconManager beaconManager;
